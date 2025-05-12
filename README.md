@@ -1,4 +1,6 @@
-[dloiolb.github.io](https://dloiolb.github.io/)
+[dloiolb.github.io/minesweeper_javascript/](https://dloiolb.github.io/minesweeper_javascript/)
+
+<!--[dloiolb.github.io](https://dloiolb.github.io/)-->
 
 <!--
 **dloiolb/dloiolb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
